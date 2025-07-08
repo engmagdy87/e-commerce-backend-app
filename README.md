@@ -1,4 +1,4 @@
-# Fullstack App Scaffold
+# Backend App Scaffold
 
 A production-ready TypeScript Express.js app with PostgreSQL (Prisma), MongoDB (Mongoose), and Redis (ioredis) support.
 
